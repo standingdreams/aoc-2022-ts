@@ -1,0 +1,17 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "description": "Advent of Code 2022 in TypeScript",
+  "keywords": [
+    "advent of code",
+    "2022",
+    "typescript"
+  ],
+  "author": "Douglas Rogers (standingdreams)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6",
+    "ts-node": "^10.9.1"
+  }
+}
